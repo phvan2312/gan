@@ -1,0 +1,6 @@
+```
+1. Don't use batch norm in the last layer of generator
+2. Don't use batch norm in the first layer of discriminator
+3. lr of discriminator: 4e-4
+4. lr of generator: 1e-4
+```
