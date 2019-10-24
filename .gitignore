@@ -1,5 +1,5 @@
 data/
-*_debug_images/*[A[B[A[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C*[B[C[C[C[C[C[C[C[C[C[C[C[D
+*_debug_images/*
 *_saved_models/*
 evals/
-Pytorch-GAN/*[A[D[D[D[D[D[D[D[D[C*[C[C[C[C[C[B[C
+PyTorch-GAN/*
